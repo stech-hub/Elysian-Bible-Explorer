@@ -1,0 +1,8 @@
+{
+  "name": "Elysian Bible Explorer",
+  "description": "A comprehensive offline-first Bible study suite featuring the standard canon, excluded books, deep historical insights, and AI-powered spiritual guidance. Developed by Akin S. Sokpah.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
